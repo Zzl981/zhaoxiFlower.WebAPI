@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zhaoxiFlower.WebAPI.exe
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zhaoxiFlower.WebAPI.dll
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zhaoxiFlower.WebAPI.deps.json
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zhaoxiFlower.WebAPI.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\zhaoxiFlower.WebAPI.pdb
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Desktop\Web\Project\zhaoxiFlower.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
